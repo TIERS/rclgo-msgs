@@ -23,8 +23,6 @@ import (
 	_ "github.com/TIERS/rclgo-msgs/diagnostic_msgs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/example_interfaces/msg" //
 	_ "github.com/TIERS/rclgo-msgs/example_interfaces/srv" //
-	_ "github.com/TIERS/rclgo-msgs/fog_msgs/msg" //
-	_ "github.com/TIERS/rclgo-msgs/fog_msgs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/geometry_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/lifecycle_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/lifecycle_msgs/srv" //
@@ -36,7 +34,6 @@ import (
 	_ "github.com/TIERS/rclgo-msgs/pcl_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/pcl_msgs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/pendulum_msgs/msg" //
-	_ "github.com/TIERS/rclgo-msgs/px4_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/rcl_interfaces/msg" //
 	_ "github.com/TIERS/rclgo-msgs/rcl_interfaces/srv" //
 	_ "github.com/TIERS/rclgo-msgs/rmw_dds_common/msg" //
@@ -48,8 +45,6 @@ import (
 	_ "github.com/TIERS/rclgo-msgs/std_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/std_srvs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/stereo_msgs/msg" //
-	_ "github.com/TIERS/rclgo-msgs/test_msgs/msg" //
-	_ "github.com/TIERS/rclgo-msgs/test_msgs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/tf2_msgs/msg" //
 	_ "github.com/TIERS/rclgo-msgs/tf2_msgs/srv" //
 	_ "github.com/TIERS/rclgo-msgs/trajectory_msgs/msg" //
