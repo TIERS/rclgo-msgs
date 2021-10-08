@@ -15,9 +15,9 @@ package action_msgs_srv
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	action_msgs_msg "github.com/tiiuae/rclgo-msgs/action_msgs/msg"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	action_msgs_msg "github.com/TIERS/rclgo-msgs/action_msgs/msg"
 	
 )
 /*

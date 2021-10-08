@@ -15,10 +15,10 @@ package fog_msgs_srv
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	nav_msgs_msg "github.com/tiiuae/rclgo-msgs/nav_msgs/msg"
-	primitives "github.com/tiiuae/rclgo/pkg/rclgo/primitives"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	nav_msgs_msg "github.com/TIERS/rclgo-msgs/nav_msgs/msg"
+	primitives "github.com/TIERS/rclgo/pkg/rclgo/primitives"
 	
 )
 /*

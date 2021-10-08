@@ -15,9 +15,9 @@ package map_msgs_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	nav_msgs_msg "github.com/tiiuae/rclgo-msgs/nav_msgs/msg"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	nav_msgs_msg "github.com/TIERS/rclgo-msgs/nav_msgs/msg"
 	
 )
 /*

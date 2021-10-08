@@ -15,7 +15,7 @@ var (
 
 func init() {
 	flag.StringVar(&modFilePath, "mod-file", "go.mod", "path to the module file")
-	flag.StringVar(&rclgoImportPath, "rclgo-import-path", "github.com/tiiuae/rclgo", "import path of rclgo library")
+	flag.StringVar(&rclgoImportPath, "rclgo-import-path", "github.com/TIERS/rclgo", "import path of rclgo library")
 	flag.Parse()
 }
 

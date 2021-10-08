@@ -27,7 +27,7 @@ rclgo_version="$(go run getrclgoversion.go -mod-file "$dest_dir/go.mod")" || exi
 
 cd "$dest_dir"
 
-go install "github.com/tiiuae/rclgo/cmd/rclgo-gen@$rclgo_version" || exit 1
+go install "github.com/TIERS/rclgo/cmd/rclgo-gen@$rclgo_version" || exit 1
 
 retry_delay=3s
 for i in {1..5}; do

@@ -15,9 +15,9 @@ package lifecycle_msgs_srv
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	lifecycle_msgs_msg "github.com/tiiuae/rclgo-msgs/lifecycle_msgs/msg"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	lifecycle_msgs_msg "github.com/TIERS/rclgo-msgs/lifecycle_msgs/msg"
 	
 )
 /*

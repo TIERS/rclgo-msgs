@@ -15,9 +15,9 @@ package visualization_msgs_srv
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	visualization_msgs_msg "github.com/tiiuae/rclgo-msgs/visualization_msgs/msg"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	visualization_msgs_msg "github.com/TIERS/rclgo-msgs/visualization_msgs/msg"
 	
 )
 /*

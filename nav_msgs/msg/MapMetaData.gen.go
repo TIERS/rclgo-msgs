@@ -15,10 +15,10 @@ package nav_msgs_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	builtin_interfaces_msg "github.com/tiiuae/rclgo-msgs/builtin_interfaces/msg"
-	geometry_msgs_msg "github.com/tiiuae/rclgo-msgs/geometry_msgs/msg"
+	"github.com/TIERS/rclgo/pkg/rclgo/types"
+	"github.com/TIERS/rclgo/pkg/rclgo/typemap"
+	builtin_interfaces_msg "github.com/TIERS/rclgo-msgs/builtin_interfaces/msg"
+	geometry_msgs_msg "github.com/TIERS/rclgo-msgs/geometry_msgs/msg"
 	
 )
 /*
